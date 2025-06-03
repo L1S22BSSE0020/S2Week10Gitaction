@@ -20,4 +20,3 @@ jobs:
     steps:
       - name: job 2 step 1
         run: echo "Hello job 2"
-
